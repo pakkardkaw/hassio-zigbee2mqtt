@@ -1,10 +1,10 @@
 {
-  "name": "Zigbee2mqtt Edge",
+  "name": "Zigbee2mqtt Edge2",
   "version": "edge",
-  "slug": "zigbee2mqtt_edge",
+  "slug": "zigbee2mqtt_edge2",
   "description": "Development build of the Zigbee2mqtt add-on",
   "uart": true,
-  "url": "https://github.com/zigbee2mqtt/hassio-zigbee2mqtt/tree/master/zigbee2mqtt-edge",
+  "url": "https://github.com/pakkardkaw/hassio-zigbee2mqtt/tree/master/zigbee2mqtt-edge",
   "startup": "application",
   "services": [
     "mqtt:need"
