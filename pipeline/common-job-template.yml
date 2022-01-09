@@ -1,7 +1,7 @@
 parameters:
 - name: addon
   type: string
-  default: 'zigbee2mqtt-edge'
+  default: 'zigbee2mqtt-edge2'
 - name: extra_param
   type: string
   default: '--no-cache'
