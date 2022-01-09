@@ -4,7 +4,7 @@
   "slug": "zigbee2mqtt2",
   "description": "Use your ZigBee devices without the vendor's bridge or gateway",
   "uart": true,
-  "url": "https://github.com/pakkardkaw/hassio-zigbee2mqtt/tree/master/zigbee2mqtt2",
+  "url": "https://github.com/zigbee2mqtt/hassio-zigbee2mqtt/tree/master/zigbee2mqtt",
   "startup": "application",
   "services": [
     "mqtt:need"
@@ -171,5 +171,5 @@
       "log": "bool?"
     }
   },
-  "image": "zigbee2mqtt2/zigbee2mqtt-{arch}"
+  "image": "zigbee2mqtt/zigbee2mqtt-{arch}"
 }
