@@ -16,5 +16,5 @@ pool:
 extends:
   template: common-job-template.yml
   parameters:
-    addon: 'zigbee2mqtt-edge'
+    addon: 'zigbee2mqtt-edge2'
     extra_param: '--no-latest --test'
